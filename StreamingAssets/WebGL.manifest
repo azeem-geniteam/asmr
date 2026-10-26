@@ -1,0 +1,89 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.3.23f1
+CRC: 2869247332
+HashAppended: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: gameplay_baseball
+      Dependencies: {}
+    Info_1:
+      Name: gameplay_stickerscut
+      Dependencies: {}
+    Info_2:
+      Name: gameplay_fancleaning
+      Dependencies: {}
+    Info_3:
+      Name: gameplay_plushieclean
+      Dependencies: {}
+    Info_4:
+      Name: gameplay_carpetcleaning
+      Dependencies: {}
+    Info_5:
+      Name: gameplay_planetscutting
+      Dependencies:
+        Dependency_0: newbundle
+    Info_6:
+      Name: gameplay_soapcut
+      Dependencies: {}
+    Info_7:
+      Name: sounds
+      Dependencies: {}
+    Info_8:
+      Name: gameplay_mirrorclean
+      Dependencies: {}
+    Info_9:
+      Name: gameplay_brickbreak
+      Dependencies: {}
+    Info_10:
+      Name: gameplay_fruitcut
+      Dependencies:
+        Dependency_0: newbundle
+    Info_11:
+      Name: gameplay_nailart
+      Dependencies: {}
+    Info_12:
+      Name: gameplay_droppytower
+      Dependencies: {}
+    Info_13:
+      Name: gameplay_carclean
+      Dependencies: {}
+    Info_14:
+      Name: gameplay_vegetablecutter
+      Dependencies: {}
+    Info_15:
+      Name: gameplay_wallpaint
+      Dependencies: {}
+    Info_16:
+      Name: gameplay_popit
+      Dependencies: {}
+    Info_17:
+      Name: gameplay_bouncyball
+      Dependencies: {}
+    Info_18:
+      Name: gameplay_piano
+      Dependencies: {}
+    Info_19:
+      Name: gameplay_ballshanger
+      Dependencies: {}
+    Info_20:
+      Name: gameplay_drumplay
+      Dependencies: {}
+    Info_21:
+      Name: gameplay_candycutter
+      Dependencies: {}
+    Info_22:
+      Name: gameplay_golf
+      Dependencies: {}
+    Info_23:
+      Name: gameplay_papercup
+      Dependencies: {}
+    Info_24:
+      Name: gameplay_snooker
+      Dependencies: {}
+    Info_25:
+      Name: gameplay_basketball
+      Dependencies: {}
+    Info_26:
+      Name: newbundle
+      Dependencies: {}
